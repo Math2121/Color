@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background: #f6f9fe;
+}
+
+.nav-link {
+    color: #898989;
+    margin-right: 1rem;
+}
+
+.nav-link:hover {
+    color: #b0b0b0;
+}
+
+.navbar-brand img {
+    width: 4rem;
+}
+
+.branco {
+    background: white;
+    box-shadow: 0px 2px 14px 0px #00000040;
+}
+
+.contato h2 {
+    color: black;
+    font-size: 5rem;
+}
+
+hr {
+    background: purple;
+    width: 6rem;
+}
+
+.contato p {
+    color: #b0b0b0;
+    font-size: 0.9rem;
+}
+
+.item {
+    margin-bottom: 2rem;
+}
+
+.item p {
+    margin-left: 1.2rem;
+}
+
+.item i {
+    background: #7c4fe0;
+    padding: 12px;
+    color: 20px;
+    color: white;
+    font-size: 23px;
+    border-radius: 6px;
+}
+
+.btn {
+    background: #7c4fe0;
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-size: 0.9rem;
+    height: 3rem;
+}
+
+.btn i {
+    margin-right: 1rem;
+    color: 20px;
+    font-size: 23px;
+}
+
+ ::-webkit-input-placeholder {
+    color: #c7c7c7!important;
+    font-size: 12px;
+}
+
+input:-moz-placeholder {
+    color: #c7c7c7!important;
+    font-size: 12px;
+}
+
+textarea:-moz-placeholder {
+    color: #c7c7c7!important;
+    font-size: 12px;
+}
+
+input {
+    margin-bottom: 1.2rem;
+    border: 0!important;
+    height: 3rem;
+    box-shadow: 0 0 7px #00000026;
+}
+
+textarea {
+    border: 0!important;
+    box-shadow: 0 0 7px #00000026;
+}
